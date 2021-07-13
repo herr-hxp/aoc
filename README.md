@@ -7,3 +7,6 @@ Complete
 
 ## Day 2
 Complete
+
+## Day 3
+Life happened
